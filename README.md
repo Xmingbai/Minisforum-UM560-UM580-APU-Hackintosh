@@ -3,5 +3,13 @@
 
 适用于Minisforum UM560/UM560XT/UM580
 
+![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/13.png)
+![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/14.png)
+![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/R23.png)
+![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/Vega7-OpenCL-Metal.png)
+![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/HDMI-4K120.png)
+![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/Type-C-4K95.png)
+![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/AX200.png)
+
 
 
