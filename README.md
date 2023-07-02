@@ -1,4 +1,4 @@
-# Minisforum-UM560XT-Hackintosh-APU
+# Minisforum-UM560XT/UM560/UM580-Hackintosh-APU
 基于小兵大佬的引导修改而来：https://github.com/daliansky/minisforum-UM560XT-Hackintosh
 
 # 使用不同config可适用于Minisforum UM560/UM560XT/UM580（下载看右边界面的Releases）
