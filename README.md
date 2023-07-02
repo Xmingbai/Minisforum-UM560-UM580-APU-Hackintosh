@@ -25,7 +25,10 @@ HDMI/Type-C 显示都支持4k高刷显示器
 睡眠及唤醒
 
 
+# BIOS设置
+关闭security boot
 
+显存大小手动设置为2G/4G，推荐4G
 
 ![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/13.png)
 ![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/14.png)
