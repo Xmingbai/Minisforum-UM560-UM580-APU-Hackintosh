@@ -4,7 +4,9 @@
 # 使用引导中不同config可适用于Minisforum UM560/UM560XT/UM580
 ![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/EFI.png)
 默认config.plist可适用于UM560XT
+
 UM560-config.plist可适用于UM560
+
 UM580config.plist可适用于UM580
 
 # macOS完善程度
