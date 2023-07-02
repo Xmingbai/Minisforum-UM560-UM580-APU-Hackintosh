@@ -6,10 +6,15 @@
 
 # macOS完善程度
 USB
+
 2.5G网口
+
 WIFI
+
 蓝牙
+
 声卡 （不支持显示器音频）
+
 睡眠及唤醒
 
 使用引导中不同config可适用于Minisforum UM560/UM560XT/UM580
