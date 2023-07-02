@@ -1,7 +1,18 @@
 # Minisforum-UM560XT-Hackintosh-APU 待更新
 基于小兵大佬的引导修改而来：https://github.com/daliansky/minisforum-UM560XT-Hackintosh
 
-适用于Minisforum UM560/UM560XT/UM580
+# 使用引导中不同config可适用于Minisforum UM560/UM560XT/UM580
+
+
+# macOS完善程度
+USB
+2.5G网口
+WIFI
+蓝牙
+声卡 （不支持显示器音频）
+睡眠及唤醒
+
+使用引导中不同config可适用于Minisforum UM560/UM560XT/UM580
 
 ![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/13.png)
 ![](https://github.com/Xmingbai/Minisforum-UM560XT-APU-Hackintosh/blob/main/14.png)
